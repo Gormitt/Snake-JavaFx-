@@ -1,4 +1,4 @@
-# Snake-JavaFx-
+# Snake in JavaFx
 
 Hi,
 I`ve created this project because i always wanted to make a game in Java (i`ve never done this before).
